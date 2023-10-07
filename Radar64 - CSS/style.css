@@ -1,0 +1,29 @@
+body {
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+    text-align: justify;
+}
+
+.html {
+    align-items: flex-start;
+    width: 150vh;
+    height: auto;
+    image-orientation: flip;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(20, 20, 20);
+}
+
+h2 {
+    color: #808080;
+    font-size: medium;
+}
+
+a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
